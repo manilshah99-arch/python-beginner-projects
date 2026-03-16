@@ -1,7 +1,7 @@
 print("Welcome to the personal expense tracker program!")
 print()
 print("Description: ")
-print("This is built to track your weekly expense.")
+print("This program is built to track your weekly expenses.")
 print()
 expenses = []
 name = input("Enter Your  Name: ")
